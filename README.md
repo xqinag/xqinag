@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @xqinag</h1>
+<h1 align="center">Hi 👋, I'm Charlie QIN</h1>
 <p align="center">🎓 Student at HKUST &nbsp;|&nbsp; 💡 Interested in Python, Data Analysis & AI/ML</p>
 
 <p align="center">
